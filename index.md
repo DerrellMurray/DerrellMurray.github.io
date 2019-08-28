@@ -1,9 +1,9 @@
-## Portfolio
+## My Portfolio
 
 ---
 ### Category: Credentials
 
-- [Project 1 Title](http://example.com/)
+- [My Resume](http://example.com/)
   My Resume
   
 - [Project 2 Title](http://example.com/)
