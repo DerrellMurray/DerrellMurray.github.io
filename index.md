@@ -5,7 +5,7 @@ This is a lightweight Github webpage written in Jekyll and hosted on Github to s
 ---
 ### Category: Credentials
 
-- [My Resume](http://example.com/)
+- [My Resume](/pdf/Derrell%20Murray%20Resume%20MS%20V3%20DM2.pdf)
 
   
 - [My Linked-In Profile](https://www.linkedin.com/in/derrell-murray-wpb/)
