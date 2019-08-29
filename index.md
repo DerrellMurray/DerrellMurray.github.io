@@ -1,24 +1,26 @@
 ## My Portfolio
+
 This is a lightweight Github webpage written in Jekyll and hosted on Github to show case some of my sample project code.
+
 ---
 ### Category: Credentials
 
 - [My Resume](http://example.com/)
 
   
-- [My Linked-In Profile](http://example.com/)
+- [My Linked-In Profile](https://www.linkedin.com/in/derrell-murray-wpb/)
   
 
 ---
 ### Category: Web Development 
 
-[My Portfolio Website on Azure](https://derrellmurray.azurewebsites.net)
+- [My Portfolio Website on Azure](https://derrellmurray.azurewebsites.net)
+
+
+- [sample_presentation](/pdf/sample_presentation.pdf)
+
 
 ---
-[sample_presentation](/pdf/sample_presentation.pdf)
-
----
-
 ### Category: C# Samples
 
 - [Object Oriented Bank Account Demo](https://github.com/DerrellMurray/CA-BankAccounts)
