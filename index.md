@@ -1,5 +1,5 @@
 ## My Portfolio
-
+this is a lightweight Github webpage written in Jeckel and hosted on Github to show case some of my sample project code.
 ---
 ### Category: Credentials
 
