@@ -1,6 +1,7 @@
 ## My Portfolio
 
-This is a lightweight Github webpage written in Jekyll and hosted on Github to show case some of my sample project code.
+This is a lightweight Github webpage written in Jekyll and hosted on Github to showcase some of my sample project code. 
+(Must be logged in to Github to follow links)
 
 ---
 ### Category: Credentials
@@ -24,10 +25,11 @@ This is a lightweight Github webpage written in Jekyll and hosted on Github to s
 ### Category: C# Samples
 
 - [Object Oriented Bank Account Demo](https://github.com/DerrellMurray/CA-BankAccounts)
-  Sample C# application to demonstrate a bank account program which uses Object Oriented coding.
+  Sample C# application demonstrating a bank account program which uses Object Oriented coding.
   
 - [Useful verification Tool to compare files](https://github.com/DerrellMurray/my_csharp_file_comparer)
-  Sample C# application to compare two Excel or Text files and display the differences in a 3rd file. 
+  Sample C# application to compare two Excel or Text files and display the differences in a 3rd file. We use it to
+  quickly verify changes in Excel Outputs.
 
 - [Data Access Samples](https://github.com/DerrellMurray/DataAccessSamples)
   Sample C# application sample code to demonstrate data access to various types of small databases and files uaing ADO.
